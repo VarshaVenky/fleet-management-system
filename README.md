@@ -104,7 +104,8 @@ fleet-management-system/
 
 - **Figure 1**: Admin Dashboard
 ![Admin Dashboard](https://github.com/VarshaVenky/fleet-management-system/blob/master/templates/Admin%20Homepage.png)
-- **Figure 2**: Driver Leave Management
+- **Figure 2**: Driver Register Page
+![Driver Register Page](https://github.com/VarshaVenky/fleet-management-system/blob/master/templates/User%20Register%20Page.png)
 
 ### Future Enhancements
 
