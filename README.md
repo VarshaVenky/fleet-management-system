@@ -61,8 +61,15 @@ fleet-management-system/
 
 ### Prerequisites
 
-- **WAMP/XAMPP**: Download and install [WAMP](https://www.wampserver.com/en/) or [XAMPP](https://www.apachefriends.org/index.html) to set up a local server environment.
-- **MySQL Database**: The project requires MySQL for database management.
+To run the **Fleet Management System** locally, you will need:
+
+- **PHP**: Version 7.4 or later  
+  - Ensure PHP is installed and configured in your environment.
+- **MySQL**: Version 5.7 or later  
+  - Used for storing and managing application data.
+- **Apache Server**: Typically included with WAMP or XAMPP for local development.
+- **WAMP/XAMPP (Recommended)**: Download and install [WAMP](https://www.wampserver.com/en/) or [XAMPP](https://www.apachefriends.org/index.html) for an all-in-one package containing Apache, MySQL, and PHP.
+- **phpMyAdmin**: Included in WAMP/XAMPP; used for managing the MySQL database via a web interface.
 
 ### Installation
 
@@ -113,18 +120,6 @@ fleet-management-system/
 - **Offline Access**: Make the application available offline for better accessibility.
 - **SMS Notifications**: Automatically send SMS alerts to drivers for schedule updates.
 - **Cloud Hosting**: Host the application to make it globally accessible. 
-
-### Requirements
-
-To run the **Fleet Management System** locally, you will need:
-
-- **PHP**: Version 7.4 or later  
-  - Ensure PHP is installed and configured in your environment.
-- **MySQL**: Version 5.7 or later  
-  - Used for storing and managing application data.
-- **Apache Server**: Typically included with WAMP or XAMPP for local development.
-- **WAMP/XAMPP (Recommended)**: Download and install [WAMP](https://www.wampserver.com/en/) or [XAMPP](https://www.apachefriends.org/index.html) for an all-in-one package containing Apache, MySQL, and PHP.
-- **phpMyAdmin**: Included in WAMP/XAMPP; used for managing the MySQL database via a web interface.
 
 ## Contributors
 
