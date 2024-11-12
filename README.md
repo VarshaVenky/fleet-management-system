@@ -28,7 +28,7 @@ This system helps bus companies efficiently manage their operations by keeping t
 
 ## Project Structure
 
-```plaintext
+``plaintext
 fleet-management-system/
 ├── README.md
 ├── LICENSE
